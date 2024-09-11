@@ -1,0 +1,34 @@
+body {
+  text-align: center;
+}
+
+.top {
+  text-align: center;
+  display: flex;
+}
+
+p {
+  margin: 70px 100px;
+}
+
+.left,
+.right {
+  background-color: red;
+  width: 450px;
+  height: 400px;
+  margin: 100px 150px;
+}
+
+.rl {
+  display: flex;
+}
+
+.red {
+  padding-top: 150px;
+  color: white;
+}
+
+.bottom {
+  text-align: center;
+  display: flex;
+}
